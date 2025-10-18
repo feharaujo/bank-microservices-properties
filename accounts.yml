@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts - DEV"
+  message: "Accounts - DEVELOPMENT"
   contactDetails:
     name: "Felipe - Developer"
     email: "felipe@test.com"
