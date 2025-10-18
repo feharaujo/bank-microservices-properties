@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Cards - PROD ENV"
+  message: "Cards - PRODUCTION ENV"
   contactDetails:
     name: "Felipe - PROD"
     email: "{cipher}8c131fc124b0471b40572b89948dc98ee357c31141095bb3014cb97a60dd06b5"
