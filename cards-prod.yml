@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Cards - PRODUCTION ENV"
+  message: "Cards - PRODUCTION"
   contactDetails:
-    name: "Felipe - PROD"
+    name: "Felipe - PRODUCTION"
     email: "{cipher}8c131fc124b0471b40572b89948dc98ee357c31141095bb3014cb97a60dd06b5"
   onCallSupport:
     - +310610001122
