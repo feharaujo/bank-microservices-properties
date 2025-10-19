@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Loans - Development"
+  message: "Loans - DEV"
   contactDetails:
     name: "Felipe - Lead Developer"
     email: "felipe@test.com"
