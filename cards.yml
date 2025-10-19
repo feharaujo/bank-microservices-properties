@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Cards - DEVELOPMENT"
+  message: "Cards - Development"
   contactDetails:
     name: "Felipe - Developer"
     email: "felipe@test.com"
