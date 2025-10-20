@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts Service - DEVELOPMENT"
+  message: "Accounts Service - DEVELOPMENT - Webhook test"
   contactDetails:
     name: "Felipe - Lead Developer"
     email: "felipe@test.com"
