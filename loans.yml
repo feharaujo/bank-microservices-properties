@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Loans - DEVELOPMENT - Webhook test"
+  message: "Loans - DEVELOPMENT - Webhook test 2"
   contactDetails:
     name: "Felipe - Lead Developer"
     email: "felipe@test.com"
