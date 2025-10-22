@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts - PROD ENV"
+  message: "Accounts - Production"
   contactDetails:
     name: "Felipe - PROD"
     email: "felipe@test.com"
